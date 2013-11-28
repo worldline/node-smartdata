@@ -1,0 +1,14 @@
+{
+    "name": "smartdata.io",
+    "version": "0.0.0",
+    "description": "smartdata.io api access",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "dependencies": {
+        "request": "*"
+    },
+    "author": "Adrien Plagnol",
+    "license": "BSD-2-Clause"
+}
